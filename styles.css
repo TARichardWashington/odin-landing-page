@@ -38,6 +38,11 @@ span, .italic {
     font-style: italic;
 }
 
+.confession {
+    font-size: 15px;
+    margin-top: 50px;
+}
+
 /* Default button style */
 
 button {
