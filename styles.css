@@ -32,6 +32,18 @@ h3 {
     color: #e5e7eb;
 }
 
+a:link {
+    color:#D93E15;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+a:visited {
+    color:#D93E15;
+}
+
 .italic
 
 span, .italic {
