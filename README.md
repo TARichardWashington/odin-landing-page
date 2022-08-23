@@ -1,2 +1,2 @@
 # odin-landing-page
-This is a github hosted open source project to demonstrate basic html and css knowledge
+I may have envoyed this a lttiel too much.  Art is good.
