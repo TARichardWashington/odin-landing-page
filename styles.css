@@ -157,7 +157,7 @@ button {
 }
 
 .info-item img:hover {
-    transform: scale(1.6); 
+    transform: scale(3); 
   }
 
 .info-item p {
