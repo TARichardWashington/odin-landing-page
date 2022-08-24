@@ -278,6 +278,10 @@ cite {
     flex-direction: column-reverse;
 }
 
+.info {
+    padding:40px;
+}
+
 .infopanel {
     flex-direction: column;
     align-items: center;
